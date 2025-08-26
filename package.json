@@ -1,0 +1,28 @@
+{
+  "name": "@uthayakumar-dinesh/statusify",
+  "version": "1.0.0",
+  "description": "HTTP status codes as TypeScript enum and literal types with reverse lookup and helper function",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "lint": "eslint . --ext .ts",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "http",
+    "status",
+    "enum",
+    "typescript",
+    "http-status"
+  ],
+  "author": "Uthayakumar Dinesh",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.0",
+    "eslint": "^8.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0"
+  }
+}
