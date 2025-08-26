@@ -17,6 +17,14 @@
     "typescript",
     "http-status"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Dineshs737/statusify.git",
+    "bugs": {
+      "url": "https://github.com/your-username/statusify/issues"
+    },
+    "homepage": "https://github.com/your-username/statusify#readme"
+  },
   "author": "Uthayakumar Dinesh",
   "license": "MIT",
   "devDependencies": {
