@@ -252,7 +252,7 @@ We welcome contributions! Please follow these steps:
 1. **Fork the repository**
 
    ```bash
-   git clone https://github.com/uthayakumar-dinesh/statusify.git
+   git clone git@github.com:Dineshs737/statusify.git
    ```
 
 2. **Create a feature branch**
@@ -278,7 +278,7 @@ We welcome contributions! Please follow these steps:
 
 ```bash
 # Clone the repository
-git git@github.com:Dineshs737/UML-class-digram-Py.git
+git git@github.com:Dineshs737/statusify.git
 cd statusify
 
 # Install dependencies
@@ -297,7 +297,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Repository
 
-- **GitHub**: [https://github.com/uthayakumar-dinesh/statusify](git@github.com:Dineshs737/UML-class-digram-Py.git)
+- **GitHub**: [https://github.com/uthayakumar-dinesh/statusify](https://github.com/Dineshs737/statusify)
 - **npm**: [@uthayakumar-dinesh/statusify](https://www.npmjs.com/package/@uthayakumar-dinesh/statusify)
 
 ---
